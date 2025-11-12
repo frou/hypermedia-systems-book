@@ -2,7 +2,7 @@
 #let body-font = "Libertinus Serif"
 #let secondary-font = "Libertinus Sans"
 #let display-font = "Jaro"
-#let mono-font = "Berkeley Mono"
+#let mono-font = "SF Mono"
 
 #import "./indexing.typ": *
 
